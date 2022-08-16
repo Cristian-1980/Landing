@@ -1,0 +1,33 @@
+.buttonm {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+.bg-custom {
+    background-color: #ffffff;
+}
+
+
+.bg-blue {
+    background-color: #d25631;
+}
+
+.image {
+    width: 100%;
+
+}
+
+.contenedor h1,
+.contenedor p {
+    color: #ffffff;
+}
+
+.social{
+    position: absolute;
+    left: 40px;
+}
+
+.social2{
+    position: absolute;
+    left: 80px;
+}
